@@ -1,4 +1,4 @@
-{"ATLAS": {"SPRITES":[ 
+﻿{"ATLAS": {"SPRITES":[ 
 {"SPRITE" : {"name": "0000","x":1,"y":1,"w":2064,"h":1680,"rotated": false}},
 {"SPRITE" : {"name": "0001","x":3481,"y":2099,"w":71,"h":185,"rotated": true}},
 {"SPRITE" : {"name": "0002","x":1901,"y":2556,"w":136,"h":223,"rotated": true}},
